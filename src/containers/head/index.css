@@ -1,0 +1,51 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+    width: 90%;
+    border-radius: 8px;
+    margin: 20px auto;
+}
+.header{
+    width: 100%;
+    margin: auto;
+    padding: 10px 0;
+    background-color: #f6f6f6;
+}
+.header img{
+    vertical-align: middle;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.header a{
+    font-size: 14px;
+}
+.header a.list,.header a.unread{
+    color: rgb(128, 189, 1);
+    padding: 6px 8px;
+    margin: 0px 10px;
+    transition: all 0.5s;
+}
+.header a.select,.header a.list:hover{
+    color: rgb(255, 255, 255);
+    padding: 6px 8px;
+    margin: 0px 10px;
+    transition: all 0.5s;
+    background-color: rgb(128, 189, 1);
+    border-radius: 3px;
+}
+.login{
+    position: fixed;
+    right: 16px;
+}
+.login-btn{
+    position: fixed;
+    right: 10px;
+    top: 60px;
+}
+.collect{
+    padding: 5px 0;
+    text-align: center;
+    margin-top: 6px;
+    background-color: #f0f0f0;
+    border-radius: 4%;
+}

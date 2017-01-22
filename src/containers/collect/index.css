@@ -1,0 +1,16 @@
+.collect-content{
+    width: 90%;
+    background-color: #fff;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px #ccc;
+    font-size: 14px;
+}
+.collect-content p{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
+.content{
+    margin-top: 0!important;
+}

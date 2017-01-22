@@ -1,0 +1,18 @@
+.message{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+.message .panel{
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+.message p{
+    padding: 10px;
+    background-color: #f6f6f6;
+    font-size: 14px;
+}
+.message .panel .no{
+    background-color: #fff;
+    padding: 10px;
+}
