@@ -2,6 +2,24 @@
 
 开发使用脚手架 https://github.com/facebookincubator/create-react-app
 
+技术栈
+
+    create-react-app
+    react
+    react-router
+    redux
+    redux-thunk
+    ES6
+    antd
+    superagent
+
+功能
+
+  1.登录退出
+  2.列表分页，查看帖子
+  3.发布帖子，回复，评论
+  4.收藏，个人中心，查看他人资料等
+
 下载运行项目
 
 git clone https://github.com/DawnL6/React-Practice.git
